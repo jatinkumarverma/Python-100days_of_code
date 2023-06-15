@@ -2,7 +2,7 @@ import requests, os
 from datetime import datetime
 from random import randint
 
-GENDER = 'female'
+GENDER = 'male'
 WEIGHT_KG = randint(60, 80)
 HEIGHT_CM = randint(155, 165)
 AGE = randint(25, 35)
